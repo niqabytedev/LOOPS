@@ -3,7 +3,7 @@
 This repository contains basic examples of loops statements in C++.
 
 ## Topics covered
--wwhile statement
+-while statement
 -do-while statement
 -for statement
 
